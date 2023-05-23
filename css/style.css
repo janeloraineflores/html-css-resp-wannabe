@@ -132,17 +132,14 @@ img {
 
 @media screen and (max-width: 768px) {
 
-    .site-header .text-center{
-        text-align: center;
-    }
-    
     .container{
-        width: 700px;
-        margin: 0 auto;
+        width: 768px;
     }
 
     .steps{
         width: 768px;
             }
 }
+
+
     
