@@ -139,6 +139,35 @@ img {
     .steps{
         width: 768px;
             }
+
+    .col{
+        width: 100%;
+    }
+}
+
+
+/* MOBILE */
+
+@media screen and (max-width: 480px) {
+
+    .container{
+        width: 480px;
+    }
+
+    .steps{
+        width: 480px;
+    }
+
+    .row{
+        display: block;
+    }
+
+    .col{
+        width: 100%;
+    }
+
+   
+    
 }
 
 
